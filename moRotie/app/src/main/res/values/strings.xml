@@ -2,4 +2,9 @@
     <string name="app_name">moRotie</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_menu_tv1">The dangers of eating moldy bread are obvious, as it increases the risk of food poisoning and other infections.</string>
+    <string name="main_menu_tv2">scan ur bread below</string>
+    <string name="resultUpload">Result :</string>
+    <string name="about_us_tv">About Us</string>
+    <string name="article_tv">Trivia</string>
 </resources>
