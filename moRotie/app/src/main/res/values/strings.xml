@@ -7,4 +7,10 @@
     <string name="resultUpload">Result :</string>
     <string name="about_us_tv">About Us</string>
     <string name="article_tv">Trivia</string>
+    <string name="morotie">moRotie</string>
+    <string name="login">Login</string>
+    <string name="let_s_check_our_interesting_facts">Check Out Our Interesting Facts!</string>
+    <string name="about_us">About Us</string>
+    <string name="home">Home</string>
+    <string name="upload">Upload</string>
 </resources>

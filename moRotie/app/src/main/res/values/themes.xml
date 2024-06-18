@@ -3,8 +3,16 @@
     <style name="Base.Theme.MoRotie" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
-        <item name="android:windowBackground">@color/background_color</item>
     </style>
 
     <style name="Theme.MoRotie" parent="Base.Theme.MoRotie" />
+    <color name="icon_color">#121212</color>
+
+
+    <style name= "App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+
+
+    </style>
+
+
 </resources>
