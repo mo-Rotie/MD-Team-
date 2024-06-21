@@ -11,6 +11,17 @@
     <string name="login">Login</string>
     <string name="let_s_check_our_interesting_facts">Check Out Our Interesting Facts!</string>
     <string name="about_us">About Us</string>
-    <string name="home">Home</string>
+    <string name="realtimescan">Scan Now</string>
     <string name="upload">Upload</string>
+    <string name="home">Home</string>
+    <string name="gejala_keracunan">Gejala Keracunan :</string>
+    <string name="lormipsumsum">lormipsumsum</string>
+    <string name="loremipsum">loremipsum</string>
+    <string name="pengobatan">Pengobatan :</string>
+    <string name="camera">Camera</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="galery">Galery</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+
+
 </resources>
